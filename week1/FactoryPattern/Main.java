@@ -1,5 +1,3 @@
-package week1.weekone.factory;
-
 
 interface Vehicle {
     void start();

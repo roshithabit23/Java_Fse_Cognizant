@@ -1,4 +1,3 @@
-package week1.weekone.singleton;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,4 +25,4 @@ class Singleton {
         }
         return instance;
     }
-}
+}s
